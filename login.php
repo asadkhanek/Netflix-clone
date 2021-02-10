@@ -27,7 +27,7 @@
 
                     <input type="password" name="password" placeholder="Password" required>
 
-                    <input type="submit" name="submitButton" value="SUBMIT">
+                    <input type="submit" name="submitButton" value="SUBMITs">
 
                 </form>
 
